@@ -1,8 +1,7 @@
 def main():
  
  print("1.0.1 version")
-  print("create a change on file")
-  print("create another print")
+ print("now a i want this print")
 
 
 if __main__ == "__name__":
