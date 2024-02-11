@@ -4,6 +4,6 @@ def main():
  print("now, i want this print")
 
 
-if __main__ == "__name__":
+if __name__ == "__main__":
     main()
 
